@@ -85,14 +85,6 @@ Thank you for using the password generator! 🔒
 
 ---
 
-## 🧩 Future Improvements
-
-- Option to copy password to clipboard using `pyperclip`.
-- Save generated passwords to a file.
-- Add a GUI version using `tkinter` with light/dark mode.
-
----
-
 ## 👩‍💻 Author
 **Khushi Nagaliya**  
 📍 Delhi, India  
