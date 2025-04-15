@@ -10,8 +10,8 @@ This repository showcases the tasks and projects I've completed as part of my in
 | Task | Description | Link |
 |------|-------------|------|
 | 🔢 Calculator | A simple Python calculator that performs basic arithmetic operations using `match-case`. | [View README](calculator/README.md) |
-| 🔐 Password Generator | A customizable and interactive password generator with strength validation and input checks. | [View README](password-generator/README.md) |
-| ✊📄✂️ Rock Paper Scissors | Coming soon... | _Work in progress_ |
+| 🔐 Password Generator | A customizable and interactive password generator with strength validation and input checks. | [View README](password_generator/README.md) |
+| ✊📄✂️ Rock Paper Scissors | A simple game logic for rock, paper or scissor game. | [View README](rock_paper_scissor_game/README.md)|
 
 ---
 
