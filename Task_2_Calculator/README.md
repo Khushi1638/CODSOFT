@@ -93,3 +93,11 @@ Enter the operation (+, -, *, /, %): -
 📍 Delhi, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/khushi-nagaliya) | ✉️ nagaliyakhushi@gmail.com
 
+---
+
+Each project is located in its own directory with a separate `README.md` explaining:
+- The objective
+- Features
+- How to run the project
+- Sample outputs
+- Key learning outcomes
